@@ -37,7 +37,7 @@ spec:
         app: webapp
     spec:
       containers:
-      - image: 40.70.87.16:8123/sampleappimage-3
+      - image: 40.70.87.16:8123/sampleappimage-4
         name: webapp
         imagePullPolicy: Always
         ports:
